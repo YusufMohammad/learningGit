@@ -7,3 +7,9 @@ this is changed now tutorial #9
 changing for tutorial #12
 
 file modified and this change is committed.
+
+file modified and staged. Not commited. This line will be deleted later and checkout will be done on this line.
+
+
+
+
